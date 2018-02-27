@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\background.xnb</Output>
+      <Time>2013-03-19T17:45:18.9259307+08:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\title.xnb</Output>
+      <Time>2013-03-19T17:45:18.9289308+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Game.png</Source>
+      <Name>Game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\Game.xnb</Output>
+      <Time>2013-03-19T17:45:18.9269307+08:00</Time>
+    </Item>
+    <Item>
+      <Source>PhoneGameThumb.png</Source>
+      <Name>PhoneGameThumb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\PhoneGameThumb.xnb</Output>
+      <Time>2013-03-19T17:45:18.9279308+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Windows Ding.wav</Source>
+      <Name>Windows Ding</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\Windows Ding.xnb</Output>
+      <Time>2013-03-19T17:45:18.9299309+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Warning.WAV</Source>
+      <Name>Warning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\Warning.xnb</Output>
+      <Time>2013-03-19T17:45:18.9289308+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2013-03-19T17:45:18.9279308+08:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2013-03-19T17:45:18.9269307+08:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\MainMenu.xnb</Output>
+      <Time>2013-03-19T17:35:23.4708726+08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerObject.png</Source>
+      <Name>PlayerObject</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\PlayerObject.xnb</Output>
+      <Time>2013-03-19T17:35:14.4933591+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreList.png</Source>
+      <Name>ScoreList</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\ScoreList.xnb</Output>
+      <Time>2013-03-19T19:15:44.3711516+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreZone.png</Source>
+      <Name>ScoreZone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\ScoreZone.xnb</Output>
+      <Time>2013-03-19T18:59:04.651971+08:00</Time>
+    </Item>
+    <Item>
+      <Source>StarObject.png</Source>
+      <Name>StarObject</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\StarObject.xnb</Output>
+      <Time>2013-03-19T22:40:03.2889498+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{13ED2F55-C775-49FA-9BFF-84DFC0E5155E}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\VS2010\Projects\Freeze\Freeze\FreezeContent\</RootDirectory>
+      <LoggerRootDirectory>F:\VS2010\Projects\Freeze\Freeze\Freeze\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\VS2010\Projects\Freeze\Freeze\Freeze\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-14T00:04:46.5803623+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

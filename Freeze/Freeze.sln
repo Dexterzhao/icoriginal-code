@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freeze", "Freeze\Freeze\Freeze.csproj", "{F8488DD9-C63C-4B33-BABD-1A153CFE89A3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FreezeContent", "Freeze\FreezeContent\FreezeContent.contentproj", "{13ED2F55-C775-49FA-9BFF-84DFC0E5155E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8488DD9-C63C-4B33-BABD-1A153CFE89A3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{F8488DD9-C63C-4B33-BABD-1A153CFE89A3}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{F8488DD9-C63C-4B33-BABD-1A153CFE89A3}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{F8488DD9-C63C-4B33-BABD-1A153CFE89A3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{F8488DD9-C63C-4B33-BABD-1A153CFE89A3}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{F8488DD9-C63C-4B33-BABD-1A153CFE89A3}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{13ED2F55-C775-49FA-9BFF-84DFC0E5155E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{13ED2F55-C775-49FA-9BFF-84DFC0E5155E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

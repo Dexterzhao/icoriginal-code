@@ -1,0 +1,11 @@
+Content\PhoneGameThumb.xnb
+Content\Game.xnb
+Content\Windows Ding.xnb
+Content\ScoreFont.xnb
+Content\Warning.xnb
+Content\Background.xnb
+Content\MainMenu.xnb
+Content\PlayerObject.xnb
+Content\ScoreList.xnb
+Content\ScoreZone.xnb
+Content\StarObject.xnb

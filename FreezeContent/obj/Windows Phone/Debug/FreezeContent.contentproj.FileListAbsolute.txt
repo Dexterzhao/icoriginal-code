@@ -1,0 +1,2 @@
+d:\projects\Freeze\Freeze\FreezeContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\VS2010\Projects\Freeze\Freeze\FreezeContent\obj\Windows Phone\Debug\FreezeContent.contentprojResolveAssemblyReference.cache

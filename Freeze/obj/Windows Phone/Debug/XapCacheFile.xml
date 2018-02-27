@@ -1,0 +1,20 @@
+﻿<xapCache source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Freeze.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013/3/20 16:23:10">
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\Background.png" archivePath="Background.png" lastWriteTime="2013/3/19 17:45:18" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\PhoneGameThumb.png" archivePath="PhoneGameThumb.png" lastWriteTime="2013/3/19 17:45:18" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013/3/19 17:45:18" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2013/3/19 17:45:18" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Freeze.dll" archivePath="Freeze.dll" lastWriteTime="2013/3/20 16:23:09" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\background.xnb" archivePath="Content\background.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\title.xnb" archivePath="Content\title.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\Game.xnb" archivePath="Content\Game.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\PhoneGameThumb.xnb" archivePath="Content\PhoneGameThumb.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\Windows Ding.xnb" archivePath="Content\Windows Ding.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\Warning.xnb" archivePath="Content\Warning.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\ScoreFont.xnb" archivePath="Content\ScoreFont.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\menufont.xnb" archivePath="Content\menufont.xnb" lastWriteTime="2013/3/19 22:44:36" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\MainMenu.xnb" archivePath="Content\MainMenu.xnb" lastWriteTime="2013/3/19 22:57:25" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\PlayerObject.xnb" archivePath="Content\PlayerObject.xnb" lastWriteTime="2013/3/19 22:57:25" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\ScoreList.xnb" archivePath="Content\ScoreList.xnb" lastWriteTime="2013/3/19 22:57:25" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\ScoreZone.xnb" archivePath="Content\ScoreZone.xnb" lastWriteTime="2013/3/19 22:57:25" />
+  <file source="F:\VS2010\Projects\Freeze\Freeze\Freeze\bin\Windows Phone\Debug\Content\StarObject.xnb" archivePath="Content\StarObject.xnb" lastWriteTime="2013/3/19 22:57:25" />
+</xapCache>
